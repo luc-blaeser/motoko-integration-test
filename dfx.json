@@ -1,0 +1,12 @@
+{
+  "canisters": {
+    "solution": {
+      "main": "src/prime.mo",
+      "type": "motoko"
+    },
+    "test": {
+      "main": "src/prime.test.mo",
+      "type": "motoko"
+    }
+  }
+}
